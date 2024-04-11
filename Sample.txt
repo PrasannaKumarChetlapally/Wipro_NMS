@@ -1,0 +1,7 @@
+Hello all this is the sample document to check 
+
+the get branch 
+
+and 
+
+the git chechout
